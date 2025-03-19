@@ -1,0 +1,7 @@
+/.ipynb_checkpoints/
+/.venv/
+/.env
+/01-groq_python.ipynb
+/02-groq_langachain.ipynb
+/disct.py
+/.idea/
